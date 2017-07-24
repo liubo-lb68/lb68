@@ -1,5 +1,4 @@
-# lb68
+# meizitu
 
-I am a Chinese.I'm learning Python and R.
-
-These are some code I wrote.
+爬取网站上的套图，并将套图的名字、编号和图片数量存入数据库中。
+为了增强代码的复用性，我将编写了几个类，完成不同的任务，其中getimg负责解析网页并下载到本地文件夹中
